@@ -1,1 +1,0 @@
-woker: hipocritaBot.py
