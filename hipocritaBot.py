@@ -12,8 +12,8 @@ import re
 import textwrap
 
 #credenciais
-auth = tweepy.OAuthHandler("n1Iv8XOUVJpGD7roDPtJJgb0A", "dpUUgamEaAXbN7BaH2kukUHPK057JiMzprSwkdXUX12ws3x8C3")
-auth.set_access_token("1293631930387304448-1PQ52Rj0EUBgKRcUgSpKUKdaqxHRZs", "jilgV99MWC7rckBQvLoX0Q1ybbuN4mG4Ws8lK2aDABefk")
+auth = tweepy.OAuthHandler("yyyyyyyyyyyyyyyyyyyyy", "yyyyyyyyyyyyyyyyyyyyyyyyy")
+auth.set_access_token("xxxxxxxxxxxxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxx")
 
 #objeto
 api = tweepy.API(auth, wait_on_rate_limit=False, wait_on_rate_limit_notify=True)  
